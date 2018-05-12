@@ -1,0 +1,37 @@
+_repo: A-Jos--Estev-o_20482
+_version: 0.1.0
+alternative_title: A José Estêvão
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pato, Raimundo António de Bulhão
+    aliases:
+    - Pato, Raimundo Antonio de Bulhao
+    - Pato, Raymundo Antonio de Bulhão
+    birthdate: 1829
+    deathdate: 1912
+    gutenberg_agent_id: '9325'
+    url: http://www.gutenberg.org/2009/agents/9325
+    wikipedia: http://pt.wikipedia.org/wiki/Raimundo_Ant%C3%B3nio_de_Bulh%C3%A3o_Pato
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20482'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Pedro Saborano (Produzido a partir das imagens\r\ndisponibilizadas\
+  \ pela bibRIA - Produced from images made\r\navailable by bibRIA)"
+publication_note: "Lisboa:\r\nTypographia Universal\r\nRua dos Calafates, 110\r\n\
+  1866"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Estêvão, José, 1809-1862 -- Poetry'
+- !lcc 'PQ'
+title: A José Estevão
+url: http://www.gutenberg.org/ebooks/20482
